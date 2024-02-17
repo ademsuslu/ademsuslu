@@ -1,3 +1,8 @@
 Hi there 👋
+Adem here. I'm a Frontend Developer, interested in everything but my specialty is Frontend. Also working as Freelance
 
+React.js / Next.js
+
+What I use? 🛠
+I prefer React & Next for front-end, Nextjs for back-end development but I love everything about JS!
 
