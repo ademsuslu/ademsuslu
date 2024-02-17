@@ -6,7 +6,7 @@ React.js / Next.js / Bootstrap
 What I use? 🛠
 
 
-I prefer React & Next for front-end, Nextjs for back-end development but I :heart everything about JS!
+I prefer React & Next for front-end, Nextjs for back-end development but I <3 everything about JS!
 
 I also mainly use Css, bootstrap and tailwind Css
 
