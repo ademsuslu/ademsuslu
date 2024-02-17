@@ -5,4 +5,6 @@ React.js / Next.js
 
 What I use? 🛠
 I prefer React & Next for front-end, Nextjs for back-end development but I love everything about JS!
+![React](https://github.com/ademsuslu/README.md/blob/main/animation_500_kd7ngokt.gif)
+
 
