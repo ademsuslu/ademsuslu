@@ -11,7 +11,7 @@ I prefer React & Next for front-end, Nextjs for back-end development but I ❤�
 I also mainly use Css, bootstrap and tailwind Css
 
 
-![React](https://github.com/ademsuslu/README.md/blob/main/animation_500_kd7ngokt.gif)
+<img src="https://raw.githubusercontent.com/ademsuslu/ademsuslu/output/snake.svg" alt="Snake animation" />
 
 I worked in the Frontend field for 6 months, focusing on technologies such as JavaScript, ReactJS and Redux Toolkit, Mui. During this process, I advanced myself and gained significant experience in the field of customer relationship management (CRM). During this period, I gained experience in JavaScript, ReactJS and Redux Toolkit with the projects I developed ♥️
 
