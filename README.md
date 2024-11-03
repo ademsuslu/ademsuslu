@@ -22,7 +22,4 @@ I worked in the Frontend field for 6 months, focusing on technologies such as Ja
 I am Freelancer: [Bionluk:♥️](https://bionluk.com/tuanasuslu)
 
 
----
-[![](https://visitcount.itsvg.in/api?id=ademsuslu&icon=0&color=0)](https://visitcount.itsvg.in)
-
 
