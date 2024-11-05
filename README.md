@@ -20,7 +20,7 @@ I am currently making improvements for e-commerce services, especially using Nex
 
 [Medium: Yazılım Geliştiricilerin Vazgeçilmez İş Ortağı Github](https://medium.com/@ademsuslu9080/git-hub-yaz%C4%B1l%C4%B1m-geli%C5%9Ftiricilerin-vazge%C3%A7ilmez-i%CC%87%C5%9F-orta%C4%9F%C4%B1-a168ebc33f90)
 
-[Medium: WafW00f ile Web Uygulama Güvenlik Duvarı (WAF) Tespiti]([https://medium.com/@ademsuslu9080/git-hub-yaz%C4%B1l%C4%B1m-geli%C5%9Ftiricilerin-vazge%C3%A7ilmez-i%CC%87%C5%9F-orta%C4%9F%C4%B1-a168ebc33f90](https://medium.com/@ademsuslu9080/wafw00f-ile-web-uygulama-g%C3%BCvenlik-duvar%C4%B1-waf-tespiti-komutlar-ve-kullan%C4%B1m-%C3%B6rnekleri-c08d82c37201))
+[Medium: WafW00f ile Web Uygulama Güvenlik Duvarı (WAF) Tespiti](https://medium.com/@ademsuslu9080/wafw00f-ile-web-uygulama-g%C3%BCvenlik-duvar%C4%B1-waf-tespiti-komutlar-ve-kullan%C4%B1m-%C3%B6rnekleri-c08d82c37201)
 
 
 
