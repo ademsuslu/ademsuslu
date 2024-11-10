@@ -1,7 +1,7 @@
 Hi there 👋
 Adem here. I'm a Fullstack Developer, interested in everything but my specialty is Frontend. Also working as Freelance
 
-React.js / Next.js / Bootstrap
+React.js / Next.js / Typescript / Tailwind.css / Bootstrap / Reat-query / React-hook-from 
 
 What I use? 🛠
 
