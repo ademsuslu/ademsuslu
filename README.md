@@ -8,7 +8,7 @@ What I use? 🛠
 
 I prefer React & Next for front-end, Nextjs for back-end development but I ❤️ everything about JS!
 
-I also mainly use Css, bootstrap and tailwind Css
+I also mainly use Css, Sass 
 
 <img src="https://raw.githubusercontent.com/bedirkoc/bedirkoc/output/snake.svg" alt="Snake animation" />
 
