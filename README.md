@@ -5,7 +5,6 @@ React.js / Next.js / Typescript / Tailwind.css / Bootstrap / Reat-query / React-
 
 What I use? 🛠
 
-
 I prefer React & Next for front-end, Nextjs for back-end development but I ❤️ everything about JS!
 
 I also mainly use Css, Sass 
