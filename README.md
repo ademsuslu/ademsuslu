@@ -23,5 +23,3 @@ I am currently making improvements for e-commerce services, especially using Nex
 
 Hire me: ademsuslu9080@gmail.com
 
-
-
