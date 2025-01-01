@@ -7,7 +7,7 @@ What I use? 🛠
 
 I prefer React & Next for front-end, Nextjs for back-end development but I ❤️ everything about JS!
 
-I also mainly use Css, Sass 
+I also mainly use Css, Sass and I love Capture the Flag play game (Web Secutrity).
 
 <img src="https://raw.githubusercontent.com/bedirkoc/bedirkoc/output/snake.svg" alt="Snake animation" />
 
