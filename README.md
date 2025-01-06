@@ -11,7 +11,7 @@ I also mainly use Css, Sass and I love Capture the Flag play game (Web Secutrity
 
 <img src="https://raw.githubusercontent.com/bedirkoc/bedirkoc/output/snake.svg" alt="Snake animation" />
 
-I have been actively working in front-end and full-stack development for more than 2 years. During this time, I have specialized in technologies such as JavaScript, ReactJS, Redux Toolkit and MUI and developed user-friendly and performance-oriented developments. Especially with the experiences I gained in the fields of customer relationship management (CRM) and E-commerce, Marketplace, I have strengthened my development in understanding user needs, making solution-oriented design and adding value to work pieces.
+I have been actively working in front-end and full-stack development for more than 4 years. During this time, I have specialized in technologies such as JavaScript, ReactJS, Redux Toolkit and MUI and developed user-friendly and performance-oriented developments. Especially with the experiences I gained in the fields of customer relationship management (CRM) and E-commerce, Marketplace, I have strengthened my development in understanding user needs, making solution-oriented design and adding value to work pieces.
 
 I am currently making improvements for e-commerce services, especially using Next.js and Prisma. In my projects, I work on secure, scalable and dynamic solutions to best meet the needs of users. I had the opportunity to successfully implement very important e-commerce functions such as basket management, stock tracking, payment integrations and user experience-oriented design. I also increase the code content using TypeScript and ensure its sustainability by minimizing errors ❤️.
 
