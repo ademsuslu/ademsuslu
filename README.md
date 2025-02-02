@@ -4,7 +4,6 @@ Adem here. I'm a Fullstack Developer, interested in everything but my specialty 
 React.js / Next.js / Typescript / Tailwind.css / Bootstrap / Reat-query / React-hook-from 
 
 What I use? 🛠
-
 I prefer React & Next for front-end, Nextjs for back-end development but I ❤️ everything about JS!
 
 I also mainly use Css, Sass and I love Capture the Flag play game (Web Secutrity).
