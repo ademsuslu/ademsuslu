@@ -10,11 +10,11 @@ Merhaba! Ben Adem Süslü, 4+ yıldır aktif olarak **Frontend** ve **Full Stack
 Web güvenliği konusuna da ilgim büyük! **Capture The Flag (CTF) oyunları** oynayarak **XSS, SQL Injection, WAF tespiti** gibi alanlarda kendimi geliştiriyorum.  
 
 ---
-
+/*
 <img src="https://raw.githubusercontent.com/bedirkoc/bedirkoc/output/snake.svg" alt="Snake animation" />
 
 ---
-
+*/
 ## 🛠 Teknolojiler & Araçlar  
 ✔ **Frontend:** React.js, Next.js, TypeScript, Redux Toolkit, Tailwind CSS, Bootstrap, MUI  
 ✔ **Backend:** Next.js (API Routes), Prisma, Node.js  
