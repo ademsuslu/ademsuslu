@@ -17,6 +17,7 @@ Web güvenliği konusuna da ilgim büyük! **Capture The Flag (CTF) oyunları** 
 ✔ **State Yönetimi:** Redux Toolkit, React Query  
 ✔ **Veritabanı:** PostgreSQL, MySQL, SQLite  
 ✔ **Araçlar & Diğer:** Git, GitHub, Docker, Postman  
+✔ **Kali linux& Diğer:** Web Pentesting  
 
 ---
 
