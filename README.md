@@ -22,6 +22,9 @@ Web güvenliği konusuna da ilgim büyük! **Capture The Flag (CTF) oyunları** 
 ---
 
 ## 📌 Medium Yazılarım  
+
+- 📝 [E-Ticaret Sitesinde Keşfettiğim İki Kritik Güvenlik Açığı: IDOR ve Token Sızıntısı][(https://medium.com/@ademsuslu9080/sql-nedir-temel-kavramlar-ve-kullan%C4%B1m-alanlar%C4%B1-c01a7b9ab8fd](https://medium.com/@ademsuslu9080/e-ticaret-sitesinde-ke%C5%9Ffetti%C4%9Fim-i%CC%87ki-kritik-g%C3%BCvenlik-a%C3%A7%C4%B1%C4%9F%C4%B1-idor-ve-token-s%C4%B1z%C4%B1nt%C4%B1s%C4%B1-467955eba647))  
+
 - 📝 [SQL Nedir? Temel Kavramlar ve Kullanım Alanları](https://medium.com/@ademsuslu9080/sql-nedir-temel-kavramlar-ve-kullan%C4%B1m-alanlar%C4%B1-c01a7b9ab8fd)  
 - 📝 [Yazılım Geliştiricilerin Vazgeçilmez İş Ortağı: GitHub](https://medium.com/@ademsuslu9080/git-hub-yaz%C4%B1l%C4%B1m-geli%C5%9Ftiricilerin-vazge%C3%A7ilmez-i%CC%87%C5%9F-orta%C4%9F%C4%B1-a168ebc33f90)  
 - 📝 [WafW00f ile Web Uygulama Güvenlik Duvarı (WAF) Tespiti](https://medium.com/@ademsuslu9080/wafw00f-ile-web-uygulama-g%C3%BCvenlik-duvar%C4%B1-waf-tespiti-komutlar-ve-kullan%C4%B1m-%C3%B6rnekleri-c08d82c37201)  
