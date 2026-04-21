@@ -32,7 +32,8 @@ Web güvenliği konusuna da ilgim büyük! **Capture The Flag (CTF) oyunları** 
 
 ## 📩 İletişim  
 📧 **E-posta:** ademsuslu9080@gmail.com  
-🌍 **LinkedIn:** [linkedin.com/in/ademsuslu]
+🌍 **LinkedIn:** [linkedin.com/in/ademsuslu]https://www.linkedin.com/in/ademsuslu)  
+
 
 Eğer **Frontend, Full Stack geliştirme veya güvenlik alanında** bir projeye ihtiyacınız varsa, iletişime geçmekten çekinmeyin! 🚀  
 
