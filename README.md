@@ -1,9 +1,9 @@
 # 👋 Merhaba, Ben Adem Süslü!  
 
-🚀 **Full Stack Developer | Frontend Odaklı | Freelance Çalışıyorum**  
+🚀 **Bug Bounty | Full Stack Developer **  
 
 ## Hakkımda  
-Merhaba! Ben Adem Süslü, 4+ yıldır aktif olarak **Frontend** ve **Full Stack** geliştirme alanlarında çalışıyorum. Uzmanlık alanım **React.js, Next.js, TypeScript ve modern web teknolojileri** olup, özellikle **E-ticaret ve CRM** alanlarında kapsamlı projeler geliştirdim. Kullanıcı deneyimi odaklı, performanslı ve ölçeklenebilir çözümler üretmeyi seviyorum.  
+Merhaba! Ben Adem Süslü,  6+ yıldır aktif olarak **Frontend** ve **Full Stack** geliştirme alanlarında çalışıyorum. Uzmanlık alanım **React.js, Next.js, TypeScript ve modern web teknolojileri** olup, özellikle **E-ticaret ve CRM** alanlarında kapsamlı projeler geliştirdim. Kullanıcı deneyimi odaklı, performanslı ve ölçeklenebilir çözümler üretmeyi seviyorum.  
 
 Özellikle **Next.js ve Prisma** kullanarak güvenli, dinamik ve sürdürülebilir projeler geliştiriyorum. E-ticaret alanında **sepet yönetimi, stok takibi, ödeme entegrasyonları** gibi kritik fonksiyonları başarıyla hayata geçirdim.  
 
