@@ -1,6 +1,11 @@
 # 👋 Merhaba, Ben Adem Süslü!  
 
-🚀 **Bug Bounty | Full Stack Developer **  
+🚀 **Bug Bounty | Full Stack Developer**  
+
+> [!CAUTION]
+> HACK AND CHILL : )
+
+
 
 ## Hakkımda  
 Merhaba! Ben Adem Süslü,  6+ yıldır aktif olarak **Frontend** ve **Full Stack** geliştirme alanlarında çalışıyorum. Uzmanlık alanım **React.js, Next.js, TypeScript ve modern web teknolojileri** olup, özellikle **E-ticaret ve CRM** alanlarında kapsamlı projeler geliştirdim. Kullanıcı deneyimi odaklı, performanslı ve ölçeklenebilir çözümler üretmeyi seviyorum.  
@@ -21,7 +26,7 @@ Web güvenliği konusuna da ilgim büyük! **Capture The Flag (CTF) oyunları** 
 
 ---
 
-## 📌 Medium Yazılarım  
+##  Medium Yazılarım  
 
 - 📝 [E-Ticaret Sitesinde Keşfettiğim İki Kritik Güvenlik Açığı: IDOR ve Token Sızıntısı](https://medium.com/@ademsuslu9080/e-ticaret-sitesinde-keşfettiğim-i̇ki-kritik-güvenlik-açığı-idor-ve-token-sızıntısı-467955eba647)
 - 📝 [SQL Nedir? Temel Kavramlar ve Kullanım Alanları](https://medium.com/@ademsuslu9080/sql-nedir-temel-kavramlar-ve-kullan%C4%B1m-alanlar%C4%B1-c01a7b9ab8fd)  
